@@ -48,7 +48,7 @@ function App() {
      <Card.Text>Today's cases{data.todayCases}</Card.Text>
      <Card.Text>Today's deaths{data.todayDeaths}</Card.Text>
      <Card.Text>Active{data.active}</Card.Text>
-     <Card.Text>Critical{data.critical}</Card.Text>
+     
        </Card.Body>
        </Card>
      )
